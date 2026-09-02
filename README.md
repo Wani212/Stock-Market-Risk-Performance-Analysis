@@ -83,7 +83,7 @@ The Power BI dashboard contains three sections:
 ### 2. Risk Analysis
 - Annualized volatility
 - Maximum drawdown
-- Sharpe ratio
+- Sharpe ratio (Risk/Performance)
 - Risk vs. return
 - Correlation matrix
 - ![Risk Analysis](https://github.com/Wani212/Stock-Market-Risk-Performance-Analysis/blob/main/Stock%20Market%20Analysis/screenshots/Screenshot%202026-08-31%20053544.png)
@@ -93,6 +93,7 @@ The Power BI dashboard contains three sections:
 - Monthly return trends
 - Key analytical findings
 - Methodology
+- ![Investment Performance](https://github.com/Wani212/Stock-Market-Risk-Performance-Analysis/blob/main/Stock%20Market%20Analysis/screenshots/Screenshot%202026-08-31%20053435.png)
 
 ## Methodology
 
