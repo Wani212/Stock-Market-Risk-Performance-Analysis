@@ -86,6 +86,7 @@ The Power BI dashboard contains three sections:
 - Sharpe ratio
 - Risk vs. return
 - Correlation matrix
+- ![Risk Analysis](https://github.com/Wani212/Stock-Market-Risk-Performance-Analysis/blob/main/Stock%20Market%20Analysis/screenshots/Screenshot%202026-08-31%20053544.png)
 
 ### 3. Investment Performance & Insights
 - Indexed investment performance
