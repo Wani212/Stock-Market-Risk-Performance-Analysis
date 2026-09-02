@@ -79,7 +79,7 @@ The Power BI dashboard contains three sections:
 - Indexed performance
 - Monthly returns
 - Annualized returns
-
+- ![Investment Overview](https://github.com/Wani212/Stock-Market-Risk-Performance-Analysis/blob/main/Stock%20Market%20Analysis/screenshots/Screenshot%202026-08-31%20062032.png)
 ### 2. Risk Analysis
 - Annualized volatility
 - Maximum drawdown
